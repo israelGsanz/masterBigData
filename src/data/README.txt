@@ -1,1 +1,0 @@
-Aquí estarán todos los ficheros de datos a analizar
